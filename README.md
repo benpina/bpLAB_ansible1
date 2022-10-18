@@ -10,7 +10,7 @@ Python
 * Create and activate a virtualenv
 
     ```bash
-    python3 venv ansible1
+    python3 -m venv ansible1
     source ansible1/bin/activate
     ```
 
@@ -26,7 +26,7 @@ Python
     pip install -r requirements.text
     ```
     
-    * To deactivate a venv instance
+* To deactivate a venv instance
 
     ```bash
     deactivate
