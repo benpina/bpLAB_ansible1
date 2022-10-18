@@ -18,7 +18,7 @@ Python
 * Upgrade PIP
 
     ```bash
-    pip install pip -- upgrade
+    pip install pip --upgrade
     ```
 * Install the requirements
 
