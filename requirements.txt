@@ -1,0 +1,7 @@
+# Requirements for venv instance (ansible & Netmiko)
+# pip install pip --upgrade
+# Run File for Requirments --- pip install -r requirements.txt
+
+
+ansible
+netmiko
